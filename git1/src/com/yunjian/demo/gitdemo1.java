@@ -8,14 +8,6 @@ public class gitdemo1 {
     public static void main(String[] args) {
         System.out.println("git1");
         System.out.println("git2");
-        System.out.println("git2");
-        System.out.println("git2");
-        System.out.println("哈哈呼吁");
-        System.out.println("hanhhanhan----------");
-        System.out.println("hanhhanhan----------");
-        System.out.println("hanhhanhan----------");
-        System.out.println("hanhhanhan----------");
-        System.out.println("hanhhanhan----------");
 
         List s = new ArrayList();
         s.add("1");
